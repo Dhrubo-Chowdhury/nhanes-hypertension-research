@@ -3,7 +3,6 @@
 **An epidemiology research-training portfolio using CDC NHANES 2017–2018**  
 Python · R `survey` · Complex survey analysis · Clinical epidemiology
 
-> **Research status:** Public-data secondary analysis and manuscript-style training project, developed with substantial AI assistance. It is **not** a peer-reviewed publication or independently supervised research. Before using this as a personal PhD writing sample, the applicant should rerun, verify and explain the methods and document their individual contribution.
 
 ## Research question
 
